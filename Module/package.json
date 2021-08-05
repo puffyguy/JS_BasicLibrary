@@ -1,0 +1,22 @@
+{
+  "name": "jsmodule",
+  "version": "1.0.0",
+  "description": "jsmodule to use basic addition and multliplication functions",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puffyguy/JS_BasicLibrary.git"
+  },
+  "author": "Praful N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puffyguy/JS_BasicLibrary/issues"
+  },
+  "homepage": "https://github.com/puffyguy/JS_BasicLibrary#readme"
+}
